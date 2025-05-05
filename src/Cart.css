@@ -1,0 +1,15 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+}
+.cart-product{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+.navigate{
+background-color: teal !important;
+color: aliceblue !important;
+}
